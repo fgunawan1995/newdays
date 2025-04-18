@@ -5,7 +5,7 @@ An AI-based meal planner based on this: https://newdaysai.notion.site/LangChain-
 ## Prerequisites
 
 - Node.js (use latest version)
-- npm or yarn
+- npm (use latest version)
 - OpenAI API key
 - LangSmith API key (optional, for tracing)
 
