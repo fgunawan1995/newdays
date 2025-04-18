@@ -27,6 +27,13 @@ An AI-based meal planner based on this: https://newdaysai.notion.site/LangChain-
 
 The application uses a multi-agent system where each agent has a specific role in the meal planning process:
 
+### Recipe Suggester (`recipeSuggester.ts`)
+- This will be the main agent
+- Suggests recipes based on user preferences and available ingredients
+- Considers dietary restrictions and nutritional requirements
+- Can provide detailed cooking instructions
+- Helps in meal variety and planning
+
 ### Dietary Advisor (`dietaryAdvisor.ts`)
 - Provides nutritional guidance and accommodates dietary restrictions
 - Considers user's health requirements and food preferences
@@ -44,9 +51,3 @@ The application uses a multi-agent system where each agent has a specific role i
 - Considers existing inventory when suggesting items to buy
 - Organizes ingredients by category or store section
 - Helps in efficient grocery shopping
-
-### Recipe Suggester (`recipeSuggester.ts`)
-- Suggests recipes based on user preferences and available ingredients
-- Considers dietary restrictions and nutritional requirements
-- Can provide detailed cooking instructions
-- Helps in meal variety and planning
