@@ -1,6 +1,6 @@
 # Meal Planner
 
-An AI-based meal planner based on this: https://newdaysai.notion.site/LangChain-LangSmith-and-LangGraph-Integration-Project-1d0931bb9a6c8045a69bc5e7973c2bb1
+An AI meal planner (command-line based) based on: https://newdaysai.notion.site/LangChain-LangSmith-and-LangGraph-Integration-Project-1d0931bb9a6c8045a69bc5e7973c2bb1 
 
 ## Prerequisites
 
