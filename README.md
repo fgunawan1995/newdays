@@ -16,14 +16,7 @@ An AI-based meal planner based on this: https://newdaysai.notion.site/LangChain-
    ```bash
    npm install
    ```
-3. Create a `.env` file in the root directory with the following variables:
-   ```
-   OPENAI_API_KEY=your_openai_api_key
-   LANGSMITH_API_KEY=your_langsmith_api_key
-   LANGSMITH_PROJECT=your_project_name
-   LANGSMITH_ENDPOINT=https://api.smith.langchain.com
-   LANGSMITH_TRACING=true
-   ```
+3. Create a `.env` file in the root directory, using sample from `env.example`
 4. Run the application
    ```bash
    npx tsc
