@@ -16,5 +16,8 @@
     "dotenv": "^16.5.0",
     "tslab": "^1.0.22",
     "uuid": "^11.1.0"
+  },
+  "scripts": {
+    "start": "npx tsc; node --no-deprecation dist/index.js"
   }
 }
